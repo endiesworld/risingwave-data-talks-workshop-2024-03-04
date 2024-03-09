@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON DATABASE your_database_name TO endie;
+ALTER USER endie WITH SUPERUSER;
